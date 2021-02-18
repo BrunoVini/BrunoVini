@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hello! 👋 Welcome to my profile
 
- - ⚡I'm 16 yers old. 
+ - ⚡I'm 17 yers old. 
  - 😄 I realy like to learn
  - 🔭 I know HTML5, CSS3, Java Script, JQuery, Bootstrap and Materialize
  - 🌱 I’m learning Backend and mobile
