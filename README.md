@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  - ⚡I'm 17 yers old. 
  - 😄 I realy like to learn
- - 🔭 I know HTML5, CSS3, Java Script, JQuery, Bootstrap and Materialize
+ - 🔭 I know HTML5, CSS3, Java Script, JQuery, Bootstrap and Materialize and PHP
  - 🌱 I’m learning Backend and mobile
  - ✨ I'm almost a Full Stack Development
  - 💬 I know how to communicate very well
