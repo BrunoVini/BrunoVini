@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  - 🌱 I’m learning Backend and mobile
  - ✨ I'm almost a Full Stack Development
  - 💬 I know how to communicate very well
-
+  <!--
 <div align="center">
   <a href="https://github.com/BrunoVini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoVini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Bruno-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="Bruno-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Bruno-MySQLP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <!-- <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div> -->
 
  ##
