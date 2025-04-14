@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  - 😄 I realy love to learn
  - 🔭 I know HTML5, CSS3, Java Script, TypeScript, JQuery, Bootstrap, PHP and MySql
  - 🌱 I’m learning Backend and mobile
- - ✨ I'm almost a Full Stack Development
+ - ✨ I'm a Full Stack Development
  - 💬 I know how to communicate very well
   <!--
 <div align="center">
