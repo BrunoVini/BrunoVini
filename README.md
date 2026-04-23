@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hello! 👋 Welcome to my profile
 
- - ⚡I'm 21 yers old. 
+ - ⚡I'm 22 yers old. 
  - 😄 I realy love to learn
  - 🔭 I know HTML5, CSS3, Java Script, TypeScript, JQuery, Bootstrap, PHP and MySql
  - ✨ I'm a Full Stack Web Development
