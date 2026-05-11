@@ -9,9 +9,15 @@
 
 ###
 
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunoVini/BrunoVini/stats-output/stats.svg" height="150" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/BrunoVini/BrunoVini/languages-output/languages.svg" height="150" alt="languages graph" />
+</div>
+-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=800&color=A9B7C6&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=const+stack+%3D+%5B%22TypeScript%22%2C+%22Node.js%22%2C+%22React%22%5D%3B;await+ship(feature%2C+%7B+tested%3A+true+%7D)%3B" alt="typing" />
 </div>
 
 ###
