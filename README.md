@@ -48,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest" />
 </div>
 
-###
-
 <div align="left">
   <a href="mailto:brunovinissouza@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
@@ -61,9 +59,10 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=astro&label=&color=FF5D01&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
 </div>
-
 ###
 
+<!--
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/BrunoVini/BrunoVini/snake-output/snake.svg" alt="Snake animation" />
+-->
